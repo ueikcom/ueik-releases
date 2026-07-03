@@ -5,5 +5,13 @@
     "description": "由社区开发的精美日历挂件，自动在状态栏显示当前日期。这是一个真正的通过单文件热重载注入的第三方插件。",
     "author": "GaiOS Community",
     "repo": "ueikcom/ueik-releases"
+  },
+  {
+    "id": "ueik-weather",
+    "name": "官方天气插件",
+    "description": "由 UEIK 官方开发的天气插件，每天为你播报天气！",
+    "author": "UEIK 官方团队",
+    "version": "1.0.0",
+    "codeUrl": "https://raw.githubusercontent.com/ueikcom/ueik-plugins/main/plugin-weather/main.js"
   }
 ]
