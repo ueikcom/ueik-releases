@@ -1,8 +1,8 @@
 [
   {
     "id": "calendar-widget",
-    "name": "社区日历插件 (Calendar Widget)",
-    "description": "由社区开发的精美日历挂件，自动在状态栏显示当前日期。这是一个真正的通过单文件热重载注入的第三方插件。",
+    "name": "Community Calendar Widget",
+    "description": "A beautiful calendar widget developed by the community, automatically displaying the current date in the status bar. This is a true third-party plugin injected via hot reloading.",
     "author": "GaiOS Community",
     "repo": "ueikcom/ueik-releases"
   },
