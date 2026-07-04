@@ -1,12 +1,5 @@
 [
   {
-    "id": "calendar-widget",
-    "name": "Community Calendar Widget",
-    "description": "A beautiful calendar widget developed by the community, automatically displaying the current date in the status bar. This is a true third-party plugin injected via hot reloading.",
-    "author": "GaiOS Community",
-    "repo": "ueikcom/ueik-releases"
-  },
-  {
     "id": "ueik-official-collection",
     "type": "collection",
     "url": "https://raw.githubusercontent.com/ueikcom/ueik-plugins/main/plugins.json"
