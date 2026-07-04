@@ -7,11 +7,8 @@
     "repo": "ueikcom/ueik-releases"
   },
   {
-    "id": "ueik-weather",
-    "name": "官方天气插件",
-    "description": "由 UEIK 官方开发的天气插件，每天为你播报天气！",
-    "author": "UEIK 官方团队",
-    "version": "1.0.0",
-    "codeUrl": "https://raw.githubusercontent.com/ueikcom/ueik-plugins/main/plugin-weather/main.js"
+    "id": "ueik-official-collection",
+    "type": "collection",
+    "url": "https://raw.githubusercontent.com/ueikcom/ueik-plugins/main/plugins.json"
   }
 ]
